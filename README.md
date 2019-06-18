@@ -1,5 +1,5 @@
 CLICK ON THIS LINK TO EXPOSE THIS AS WEBSITE -> https://learniteasy.github.io/hello-world/
-## Welcome to github pages
+## Welcome to github pages - updated issue 1
 
 Some Dummy Test paragraph
 
